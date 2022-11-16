@@ -1,4 +1,4 @@
 # Audio-Signal-Processsing
 Basic Operations and Feature Extraction on the Given Audio Signal using Matlab
 
-***Main.m:*** This program is for reading the audiofile and performing short-time fourier transform analysis.
+***main1.m:*** This program is for reading the audiofile and performing short-time fourier transform analysis.
